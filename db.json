@@ -5,7 +5,12 @@
     { "id": 2, "documentName": "DOCUMENTO PRUEBAS 2", "typeDocument": "Documento Tipo 1", "date": "01/01/2021", "idDocument": "ABCD2", "validity": "180 días", "url": "URL2"},
     { "id": 3, "documentName": "DOCUMENTO PRUEBAS 3", "typeDocument": "Documento Tipo 1", "date": "01/01/2021", "idDocument": "ABCD3", "validity": "60 días", "url": "URL3"},
     { "id": 4, "documentName": "DOCUMENTO PRUEBAS 4", "typeDocument": "Documento Tipo 2", "date": "01/01/2021", "idDocument": "ABCD4", "validity": "180 días", "url": "URL4"},
-    { "id": 5, "documentName": "DOCUMENTO PRUEBAS 5", "typeDocument": "Documento Tipo 2", "date": "01/01/2021", "idDocument": "ABCD5", "validity": "30 días", "url": "URL5"}
-
+    { "id": 5, "documentName": "DOCUMENTO PRUEBAS 5", "typeDocument": "Documento Tipo 2", "date": "01/01/2021", "idDocument": "ABCD5", "validity": "30 días", "url": "URL5"},
+    { "id": 6, "documentName": "DOCUMENTO PRUEBAS 6", "typeDocument": "Documento Tipo 2", "date": "01/02/2021", "idDocument": "ABCD6", "validity": "30 días", "url": "URL6"},
+    { "id": 7, "documentName": "DOCUMENTO PRUEBAS 7", "typeDocument": "Documento Tipo 3", "date": "01/02/2021", "idDocument": "ABCD7", "validity": "60 días", "url": "URL7"},
+    { "id": 8, "documentName": "DOCUMENTO PRUEBAS 8", "typeDocument": "Documento Tipo 3", "date": "01/01/2021", "idDocument": "ABCD8", "validity": "30 días", "url": "URL8"},
+    { "id": 9, "documentName": "DOCUMENTO PRUEBAS 9", "typeDocument": "Documento Tipo 5", "date": "10/01/2021", "idDocument": "ABCD9", "validity": "180 días", "url": "URL9"},
+    { "id": 10, "documentName": "DOCUMENTO PRUEBAS 10", "typeDocument": "Documento Tipo 2", "date": "06/01/2021", "idDocument": "ABCD10", "validity": "30 días", "url": "URL10"},
+    { "id": 11, "documentName": "DOCUMENTO PRUEBAS 11", "typeDocument": "Documento Tipo 2", "date": "02/01/2021", "idDocument": "ABCD11", "validity": "180 días", "url": "URL11"}
   ]
 }
